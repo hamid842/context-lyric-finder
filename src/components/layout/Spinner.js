@@ -8,7 +8,7 @@ export default () => {
         src={spinner}
         alt="loading ..."
         style={{
-          width: "200px",
+          width: "100px",
           margin: "40px auto",
           display: "block",
         }}
